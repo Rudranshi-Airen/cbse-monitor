@@ -1,0 +1,6 @@
+fastapi>=0.111
+uvicorn[standard]
+apscheduler>=3.10
+playwright
+pydantic-settings
+plyer
